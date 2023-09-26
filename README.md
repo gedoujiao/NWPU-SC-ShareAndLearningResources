@@ -1,1 +1,1 @@
-# NWPU-SC-ShareAndLearningResources
+这是一个西工大网安学院的学习资源共享库。
